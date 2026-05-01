@@ -1,1 +1,1 @@
-# -ixai-website
+# IXAI Website
